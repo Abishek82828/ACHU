@@ -1,6 +1,7 @@
+import fs from "fs";
 import "dotenv/config";
 import express from "express";
-import { createServer as createViteServer } from "vite";
+import { build, createServer as createViteServer } from "vite";
 import path from "path";
 import Database from "better-sqlite3";
 import { getRecommendations, updateLearnedWeights, refreshBundles } from "./backend/recommendationEngine";
@@ -9,7 +10,7 @@ import { sendProductNotifications } from "./backend/productNotifications";
 import { publishPurchaseNotification } from "./backend/sns";
 
 const app = express();
-const PORT = 3000;
+const PORT = Number(process.env.PORT || 3000);
 
 app.use(express.json());
 
@@ -649,6 +650,10 @@ async function startServer() {
     app.use(vite.middlewares);
   } else {
     const distPath = path.join(process.cwd(), "dist");
+    if (!fs.existsSync(distPath)) {
+      console.log("Production dist not found, building frontend assets...");
+      await build();
+    }
     app.use(express.static(distPath));
     app.get("*", (_req, res) => res.sendFile(path.join(distPath, "index.html")));
   }
