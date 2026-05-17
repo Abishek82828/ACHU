@@ -1,0 +1,502 @@
+[
+  {
+    "pname": "Rose & Jasmine Body Cleanser",
+    "netprice": 1181,
+    "sellingprice": 1575,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A gentle floral body wash that cleanses without stripping moisture and leaves skin softly scented.",
+    "image": "",
+    "problem_tags": "body-wash,gentle-cleanse,daily-use,hydration,floral"
+  },
+  {
+    "pname": "Madurai Jasmine & Mogra Shower Gel",
+    "netprice": 1181,
+    "sellingprice": 1575,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A fragrant shower gel for everyday cleansing that helps leave skin fresh, soft, and lightly perfumed.",
+    "image": "",
+    "problem_tags": "shower-gel,body-wash,daily-use,refreshing,floral"
+  },
+  {
+    "pname": "Nargis Body Mist",
+    "netprice": 1012,
+    "sellingprice": 1350,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A lightweight body mist that refreshes skin and adds a soft floral fragrance through the day.",
+    "image": "",
+    "problem_tags": "body-mist,fragrance,refreshing,daily-use,floral"
+  },
+  {
+    "pname": "Indian Rose Absolute Body Lotion",
+    "netprice": 1571,
+    "sellingprice": 2095,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A rich body lotion that deeply moisturizes dry skin and helps improve softness and suppleness.",
+    "image": "",
+    "problem_tags": "body-lotion,dry-skin,hydration,soft-skin,nourishing"
+  },
+  {
+    "pname": "Soundarya Body Polisher",
+    "netprice": 2138,
+    "sellingprice": 2850,
+    "category": "Body",
+    "severity": "High Severity",
+    "description": "An exfoliating body polish that buffs away roughness and helps improve glow and smooth texture.",
+    "image": "",
+    "problem_tags": "body-scrub,body-polish,exfoliation,rough-skin,glow"
+  },
+  {
+    "pname": "Sugandha Bath & Shower Oil",
+    "netprice": 1046,
+    "sellingprice": 1395,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A nourishing bath and shower oil that helps cleanse gently while supporting softer, comforted skin.",
+    "image": "",
+    "problem_tags": "shower-oil,bath-oil,dry-skin,hydration,nourishing"
+  },
+  {
+    "pname": "Himalayan Deodar Body Cleanser",
+    "netprice": 821,
+    "sellingprice": 1095,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A refreshing body cleanser with a woody herbal profile that helps purify skin without over-drying.",
+    "image": "",
+    "problem_tags": "body-cleanser,body-wash,daily-use,refreshing,clarifying"
+  },
+  {
+    "pname": "Rose Jasmine Body Cleanser",
+    "netprice": 821,
+    "sellingprice": 1095,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A mild body wash for daily use that helps cleanse, refresh, and maintain skin comfort.",
+    "image": "",
+    "problem_tags": "body-wash,body-cleanser,daily-use,gentle-cleanse,hydration"
+  },
+  {
+    "pname": "Nalpamaradi Thailam",
+    "netprice": 1009,
+    "sellingprice": 1345,
+    "category": "Body",
+    "severity": "High Severity",
+    "description": "An Ayurvedic body oil traditionally used for tan care, dullness, and uneven-looking skin tone.",
+    "image": "",
+    "problem_tags": "body-oil,tan-care,brightening,uneven-tone,body-treatment"
+  },
+  {
+    "pname": "Organic Sweet Almond Oil",
+    "netprice": 506,
+    "sellingprice": 675,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A lightweight body massage oil that helps soften dry skin and lock in moisture.",
+    "image": "",
+    "problem_tags": "body-oil,massage-oil,dry-skin,hydration,nourishing"
+  },
+  {
+    "pname": "Bio Almond Oil Soothing Face & Eye Makeup Cleanser",
+    "netprice": 206,
+    "sellingprice": 275,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "An oil cleanser that dissolves makeup and impurities while helping keep skin soft and nourished.",
+    "image": "",
+    "problem_tags": "oil-cleanser,makeup-remover,dry-skin,nourishing,gentle-cleanse"
+  },
+  {
+    "pname": "Bio Apricot Refreshing Body Wash",
+    "netprice": 142,
+    "sellingprice": 190,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A soap-free body wash that helps cleanse daily buildup while keeping skin refreshed and comfortable.",
+    "image": "",
+    "problem_tags": "body-wash,daily-use,refreshing,gentle-cleanse,soft-skin"
+  },
+  {
+    "pname": "Bio Orange Peel Revitalizing Body Soap",
+    "netprice": 56,
+    "sellingprice": 75,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A revitalizing soap with a mild exfoliating feel that helps cleanse and brighten dull body skin.",
+    "image": "",
+    "problem_tags": "soap,body-soap,brightening,exfoliation,dull-skin"
+  },
+  {
+    "pname": "Bio Basil & Parsley Body Wash",
+    "netprice": 165,
+    "sellingprice": 220,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A purifying body wash that helps remove impurities and supports fresh, clean-feeling skin.",
+    "image": "",
+    "problem_tags": "body-wash,purifying,clarifying,deep-cleanse,daily-use"
+  },
+  {
+    "pname": "Bio Morning Nectar Body Lotion",
+    "netprice": 225,
+    "sellingprice": 300,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A moisturizing body lotion that helps hydrate dry skin and maintain everyday softness.",
+    "image": "",
+    "problem_tags": "body-lotion,hydration,dry-skin,soft-skin,daily-moisture"
+  },
+  {
+    "pname": "Rose Bathing Bar",
+    "netprice": 64,
+    "sellingprice": 85,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A gentle bathing bar for daily cleansing that leaves skin clean, soft, and mildly floral.",
+    "image": "",
+    "problem_tags": "soap,bathing-bar,daily-use,gentle-cleanse,floral"
+  },
+  {
+    "pname": "Aloe Vera Bathing Bar",
+    "netprice": 64,
+    "sellingprice": 85,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A soothing bathing bar that helps cleanse while supporting hydration for dry or irritated skin.",
+    "image": "",
+    "problem_tags": "soap,bathing-bar,aloe-vera,dry-skin,soothing"
+  },
+  {
+    "pname": "Lavender Bathing Bar",
+    "netprice": 64,
+    "sellingprice": 85,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A fragrant bathing bar that cleanses skin gently and leaves a calming lavender aroma.",
+    "image": "",
+    "problem_tags": "soap,bathing-bar,daily-use,lavender,refreshing"
+  },
+  {
+    "pname": "Organic Harvest Body Lotion",
+    "netprice": 224,
+    "sellingprice": 299,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A body lotion for daily moisturization that helps keep skin smooth and nourished.",
+    "image": "",
+    "problem_tags": "body-lotion,hydration,dry-skin,soft-skin,nourishing"
+  },
+  {
+    "pname": "Organic Harvest Body Wash",
+    "netprice": 187,
+    "sellingprice": 249,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A gentle body wash for daily cleansing that helps remove dirt while maintaining skin comfort.",
+    "image": "",
+    "problem_tags": "body-wash,daily-use,gentle-cleanse,refreshing,soft-skin"
+  },
+  {
+    "pname": "Ubtan Body Wash",
+    "netprice": 262,
+    "sellingprice": 349,
+    "category": "Body",
+    "severity": "High Severity",
+    "description": "A turmeric and saffron body wash that helps cleanse deeply and support tan-removal routines.",
+    "image": "",
+    "problem_tags": "body-wash,ubtan,tan-care,brightening,deep-cleanse"
+  },
+  {
+    "pname": "Vitamin C Body Wash",
+    "netprice": 224,
+    "sellingprice": 299,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A brightening body wash that helps cleanse, refresh, and support a more even-looking body tone.",
+    "image": "",
+    "problem_tags": "body-wash,vitamin-c,brightening,dull-skin,daily-use"
+  },
+  {
+    "pname": "CoCo Body Lotion",
+    "netprice": 374,
+    "sellingprice": 499,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A rich body lotion for intense moisturization that helps relieve dryness and improve skin softness.",
+    "image": "",
+    "problem_tags": "body-lotion,dry-skin,intense-moisture,soft-skin,nourishing"
+  },
+  {
+    "pname": "Ubtan Body Lotion",
+    "netprice": 337,
+    "sellingprice": 449,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A nourishing body lotion that helps moisturize skin and support glow in tan-prone areas.",
+    "image": "",
+    "problem_tags": "body-lotion,ubtan,glow,tan-care,hydration"
+  },
+  {
+    "pname": "Tea Tree Body Wash",
+    "netprice": 262,
+    "sellingprice": 349,
+    "category": "Body",
+    "severity": "High Severity",
+    "description": "A purifying body wash with tea tree and neem that helps cleanse oily or blemish-prone body skin.",
+    "image": "",
+    "problem_tags": "body-wash,tea-tree,body-acne,purifying,oil-control"
+  },
+  {
+    "pname": "Coconut Milk Body Wash",
+    "netprice": 254,
+    "sellingprice": 339,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A creamy body wash that helps cleanse gently while adding moisture back to dry skin.",
+    "image": "",
+    "problem_tags": "body-wash,coconut-milk,dry-skin,hydration,gentle-cleanse"
+  },
+  {
+    "pname": "Ubtan Glowing Skin Body Lotion",
+    "netprice": 337,
+    "sellingprice": 449,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A brightening body lotion that helps soften skin and improve the look of dullness and tan.",
+    "image": "",
+    "problem_tags": "body-lotion,ubtan,brightening,soft-skin,tan-care"
+  },
+  {
+    "pname": "Himalayan Rose Body Wash",
+    "netprice": 254,
+    "sellingprice": 339,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A rose-infused body wash that helps cleanse daily buildup and leave skin feeling soft and fresh.",
+    "image": "",
+    "problem_tags": "body-wash,rose,refreshing,daily-use,soft-skin"
+  },
+  {
+    "pname": "Shea Butter Body Lotion",
+    "netprice": 352,
+    "sellingprice": 469,
+    "category": "Body",
+    "severity": "High Severity",
+    "description": "A rich moisturizing lotion that helps relieve rough, dry skin and support long-lasting softness.",
+    "image": "",
+    "problem_tags": "body-lotion,shea-butter,dry-skin,rough-skin,intense-moisture"
+  },
+  {
+    "pname": "Apple Cider Vinegar Body Wash",
+    "netprice": 254,
+    "sellingprice": 339,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A balancing body wash that helps deep-cleanse, refresh, and manage excess oil on body skin.",
+    "image": "",
+    "problem_tags": "body-wash,apple-cider-vinegar,oil-control,deep-cleanse,refreshing"
+  },
+  {
+    "pname": "Neem & Tulsi Body Wash",
+    "netprice": 224,
+    "sellingprice": 299,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A herbal body wash that helps purify skin and wash away dirt, sweat, and impurities.",
+    "image": "",
+    "problem_tags": "body-wash,neem,tulsi,purifying,deep-cleanse"
+  },
+  {
+    "pname": "Rose & Honey Body Wash",
+    "netprice": 224,
+    "sellingprice": 299,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A moisturizing body wash that helps cleanse gently while leaving skin soft and lightly scented.",
+    "image": "",
+    "problem_tags": "body-wash,rose,honey,hydration,gentle-cleanse"
+  },
+  {
+    "pname": "Sandalwood Soap",
+    "netprice": 60,
+    "sellingprice": 80,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A sandalwood soap that helps cleanse, soothe, and support clearer-looking skin.",
+    "image": "",
+    "problem_tags": "soap,sandalwood,soothing,body-cleanse,blemishes"
+  },
+  {
+    "pname": "Lavender Body Lotion",
+    "netprice": 188,
+    "sellingprice": 250,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A lightweight lotion that helps lock in moisture and keep skin soft through the day.",
+    "image": "",
+    "problem_tags": "body-lotion,lavender,hydration,soft-skin,daily-moisture"
+  },
+  {
+    "pname": "Herbal Body Massage Oil",
+    "netprice": 165,
+    "sellingprice": 220,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A body massage oil that helps nourish dry skin and supports relaxation during massage.",
+    "image": "",
+    "problem_tags": "massage-oil,body-oil,dry-skin,hydration,relaxation"
+  },
+  {
+    "pname": "Aloe Vera Gel",
+    "netprice": 75,
+    "sellingprice": 100,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A soothing gel that helps cool, hydrate, and comfort dry or irritated body skin.",
+    "image": "",
+    "problem_tags": "body-gel,aloe-vera,soothing,hydration,skin-repair"
+  },
+  {
+    "pname": "Saundarya Body Lotion",
+    "netprice": 75,
+    "sellingprice": 100,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A lightweight herbal body lotion that helps moisturize and restore softness without heaviness.",
+    "image": "",
+    "problem_tags": "body-lotion,hydration,soft-skin,daily-moisture,nourishing"
+  },
+  {
+    "pname": "Kesar Chandan Soap",
+    "netprice": 40,
+    "sellingprice": 53,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A saffron and sandalwood soap that helps cleanse gently while supporting brighter-looking skin.",
+    "image": "",
+    "problem_tags": "soap,kesar,chandan,brightening,body-cleanse"
+  },
+  {
+    "pname": "Haldi Chandan Soap",
+    "netprice": 50,
+    "sellingprice": 66,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A turmeric and sandalwood soap that helps purify skin and support a smoother, clearer look.",
+    "image": "",
+    "problem_tags": "soap,haldi,chandan,purifying,brightening"
+  },
+  {
+    "pname": "Neem Kanti Body Cleanser",
+    "netprice": 40,
+    "sellingprice": 53,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A neem-based body cleanser that helps remove impurities and leaves skin feeling refreshed.",
+    "image": "",
+    "problem_tags": "soap,neem,purifying,body-cleanse,fresh-skin"
+  },
+  {
+    "pname": "Aloe & Green Tea Body Wash",
+    "netprice": 285,
+    "sellingprice": 380,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A gentle body wash that helps cleanse daily dirt while keeping skin comfortable and refreshed.",
+    "image": "",
+    "problem_tags": "body-wash,aloe-vera,green-tea,daily-use,refreshing"
+  },
+  {
+    "pname": "Vanilla Vibes Body Oil",
+    "netprice": 353,
+    "sellingprice": 471,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A lightweight body oil that helps intensely moisturize skin and add a healthy-looking glow.",
+    "image": "",
+    "problem_tags": "body-oil,hydration,glow,dry-skin,nourishing"
+  },
+  {
+    "pname": "Hawaiian Rumba Shower Gel",
+    "netprice": 233,
+    "sellingprice": 311,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A lathering shower gel that gently cleanses and leaves skin soft with a tropical scent.",
+    "image": "",
+    "problem_tags": "shower-gel,body-wash,daily-use,refreshing,fragrance"
+  },
+  {
+    "pname": "Trippin' Mimosas Body Mist",
+    "netprice": 342,
+    "sellingprice": 456,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A citrus-floral body mist that refreshes skin and adds a light long-lasting scent.",
+    "image": "",
+    "problem_tags": "body-mist,fragrance,refreshing,citrus,daily-use"
+  },
+  {
+    "pname": "Caramel Popcorn Body Butter",
+    "netprice": 371,
+    "sellingprice": 495,
+    "category": "Body",
+    "severity": "High Severity",
+    "description": "A rich body butter that helps smooth rough patches and deeply moisturize very dry skin.",
+    "image": "",
+    "problem_tags": "body-butter,dry-skin,intense-moisture,rough-skin,nourishing"
+  },
+  {
+    "pname": "Sandalwood & Turmeric Body Cleanser",
+    "netprice": 221,
+    "sellingprice": 295,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A traditional-style body cleanser that helps cleanse, brighten, and support smoother body skin.",
+    "image": "",
+    "problem_tags": "body-cleanser,sandalwood,turmeric,brightening,gentle-cleanse"
+  },
+  {
+    "pname": "Kumuda Indian White Water Lily Body Wash",
+    "netprice": 221,
+    "sellingprice": 295,
+    "category": "Body",
+    "severity": "Regular",
+    "description": "A botanical body wash that helps cleanse gently and leave skin feeling soft and refreshed.",
+    "image": "",
+    "problem_tags": "body-wash,botanical,gentle-cleanse,daily-use,soft-skin"
+  },
+  {
+    "pname": "Ayurvedic Body Lotion",
+    "netprice": 296,
+    "sellingprice": 395,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "An Ayurvedic body lotion that helps moisturize dry skin and support softness and glow.",
+    "image": "",
+    "problem_tags": "body-lotion,ayurvedic,hydration,dry-skin,glow"
+  },
+  {
+    "pname": "Rose & Sandalwood Handmade Soap",
+    "netprice": 184,
+    "sellingprice": 245,
+    "category": "Body",
+    "severity": "Improver",
+    "description": "A handmade soap that cleanses gently while helping skin feel soft, calm, and lightly scented.",
+    "image": "",
+    "problem_tags": "soap,handmade-soap,rose,sandalwood,body-cleanse"
+  },
+  {
+    "pname": "Organic Coconut Body Butter",
+    "netprice": 637,
+    "sellingprice": 849,
+    "category": "Body",
+    "severity": "High Severity",
+    "description": "A dense organic body butter that helps seal in moisture and comfort very dry, rough skin.",
+    "image": "",
+    "problem_tags": "body-butter,coconut,dry-skin,intense-moisture,rough-skin"
+  }
+]

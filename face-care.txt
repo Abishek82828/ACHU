@@ -1,0 +1,502 @@
+[
+  {
+    "pname": "Kumkumadi Youth-Revitalising Facial Oil",
+    "netprice": 1421,
+    "sellingprice": 1895,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A restorative facial oil that helps target dullness, dark spots, and early signs of ageing while boosting overnight radiance.",
+    "image": "",
+    "problem_tags": "face-oil,anti-ageing,dark-spots,pigmentation,glow"
+  },
+  {
+    "pname": "Rose Jasmine Face Cleanser",
+    "netprice": 596,
+    "sellingprice": 795,
+    "category": "Face",
+    "severity": "Regular",
+    "description": "A gentle foaming cleanser that helps remove dirt, makeup, and excess oil without leaving skin tight.",
+    "image": "",
+    "problem_tags": "face-cleanser,face-wash,gentle-cleanse,hydration,daily-use"
+  },
+  {
+    "pname": "Pure Rose Water",
+    "netprice": 469,
+    "sellingprice": 625,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A steam-distilled rose toner that refreshes, hydrates, and rebalances skin after cleansing.",
+    "image": "",
+    "problem_tags": "toner,rose-water,hydration,soothing,refreshing"
+  },
+  {
+    "pname": "Mridul Soap-Free Face Cleanser",
+    "netprice": 938,
+    "sellingprice": 1250,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A traditional powder cleanser that gently exfoliates, cleanses, and smooths skin without soap.",
+    "image": "",
+    "problem_tags": "powder-cleanser,soap-free,exfoliation,gentle-cleanse,texture"
+  },
+  {
+    "pname": "Nimrah Anti-Acne Face Pack",
+    "netprice": 1144,
+    "sellingprice": 1525,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "An anti-acne face pack that helps calm active breakouts, reduce swelling, and improve post-acne marks.",
+    "image": "",
+    "problem_tags": "face-pack,anti-acne,pimples,blemishes,dark-spots"
+  },
+  {
+    "pname": "Suvarna Haldi Chandan Face Pack",
+    "netprice": 1421,
+    "sellingprice": 1895,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A traditional brightening face pack with turmeric and sandalwood that helps clarify skin and support a smoother glow.",
+    "image": "",
+    "problem_tags": "face-pack,brightening,glow,pigmentation,uneven-tone"
+  },
+  {
+    "pname": "Eladi Hydrating Ayurvedic Face Cream",
+    "netprice": 2269,
+    "sellingprice": 3025,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A hydrating Ayurvedic face cream that helps moisturize skin deeply while improving softness and radiance.",
+    "image": "",
+    "problem_tags": "face-cream,moisturizer,hydration,dry-skin,glow"
+  },
+  {
+    "pname": "Nalpamaradi Thailam Skin Brightening Treatment",
+    "netprice": 1009,
+    "sellingprice": 1345,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A brightening treatment oil that helps improve uneven tone, tan, and dark marks with regular use.",
+    "image": "",
+    "problem_tags": "face-oil,brightening,tan-care,dark-spots,uneven-tone"
+  },
+  {
+    "pname": "Soundarya Radiance Cream",
+    "netprice": 1856,
+    "sellingprice": 2475,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "An age-defying day cream that helps nourish skin, add glow, and support firmness.",
+    "image": "",
+    "problem_tags": "face-cream,anti-ageing,firming,glow,day-cream"
+  },
+  {
+    "pname": "Facial Tonic Mist Pure Rosewater",
+    "netprice": 1013,
+    "sellingprice": 1350,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A rosewater facial mist that helps soothe, hydrate, and refresh skin through the day.",
+    "image": "",
+    "problem_tags": "toner,facial-mist,rose-water,hydration,refreshing"
+  },
+  {
+    "pname": "Delicate Facial Cleanser Kashmiri Saffron & Neem",
+    "netprice": 971,
+    "sellingprice": 1295,
+    "category": "Face",
+    "severity": "Regular",
+    "description": "A mild facial cleanser that helps balance oil, clear buildup, and keep skin comfortable after washing.",
+    "image": "",
+    "problem_tags": "face-wash,cleanser,oil-control,neem,daily-use"
+  },
+  {
+    "pname": "Tejasvi Brightening Emulsion",
+    "netprice": 1313,
+    "sellingprice": 1750,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A rich brightening cream that helps improve dullness and supports softer, more radiant-looking skin.",
+    "image": "",
+    "problem_tags": "moisturizer,brightening,dull-skin,glow,pigmentation"
+  },
+  {
+    "pname": "Sanjeevani Beauty Elixir",
+    "netprice": 1763,
+    "sellingprice": 2350,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A concentrated serum-elixir that helps plump, hydrate, and revive tired or mature-looking skin.",
+    "image": "",
+    "problem_tags": "serum,hydration,anti-ageing,firming,glow"
+  },
+  {
+    "pname": "Soundarya Night Cream",
+    "netprice": 2531,
+    "sellingprice": 3375,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "An intensive night cream that helps nourish skin deeply and support smoother, firmer-looking skin by morning.",
+    "image": "",
+    "problem_tags": "night-cream,anti-ageing,firming,hydration,repair"
+  },
+  {
+    "pname": "Narangi & Nagkesar Facial Ubtan",
+    "netprice": 506,
+    "sellingprice": 675,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A traditional ubtan that helps exfoliate gently, remove tan buildup, and brighten dull skin.",
+    "image": "",
+    "problem_tags": "ubtan,exfoliation,tan-removal,brightening,dull-skin"
+  },
+  {
+    "pname": "Multani Mitti Facial Ubtan",
+    "netprice": 1331,
+    "sellingprice": 1775,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A purifying clay-based ubtan that helps absorb excess oil, clarify pores, and support acne-prone skin.",
+    "image": "",
+    "problem_tags": "face-pack,multani-mitti,oil-control,acne-prone,pores"
+  },
+  {
+    "pname": "Bio Morning Nectar Moisturizer",
+    "netprice": 225,
+    "sellingprice": 300,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A nourishing moisturizer that helps hydrate skin daily and maintain softness and comfort.",
+    "image": "",
+    "problem_tags": "moisturizer,hydration,dry-skin,soft-skin,daily-use"
+  },
+  {
+    "pname": "Bio Papaya Face Wash",
+    "netprice": 206,
+    "sellingprice": 275,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A papaya cleanser that helps deep-clean pores, reduce tan buildup, and brighten dull skin.",
+    "image": "",
+    "problem_tags": "face-wash,papaya,brightening,tan-removal,pores"
+  },
+  {
+    "pname": "Bio Neem Purifying Face Wash",
+    "netprice": 169,
+    "sellingprice": 225,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A neem face wash that helps purify pores, control excess oil, and reduce pimple-causing buildup.",
+    "image": "",
+    "problem_tags": "face-wash,neem,anti-acne,oil-control,pimples"
+  },
+  {
+    "pname": "Bio Cucumber Pore Tightening Toner",
+    "netprice": 195,
+    "sellingprice": 260,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A refreshing toner that helps tighten the look of pores and leave oily skin feeling balanced.",
+    "image": "",
+    "problem_tags": "toner,pores,oil-control,refreshing,cooling"
+  },
+  {
+    "pname": "Bio Fruit Whitening Depigmentation Face Pack",
+    "netprice": 224,
+    "sellingprice": 299,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A fruit-based face pack that helps reduce tan and pigmentation while improving overall brightness.",
+    "image": "",
+    "problem_tags": "face-pack,depigmentation,tan-removal,brightening,dark-spots"
+  },
+  {
+    "pname": "Bio Sandalwood Sunscreen",
+    "netprice": 244,
+    "sellingprice": 325,
+    "category": "Face",
+    "severity": "Regular",
+    "description": "A daily sunscreen lotion that helps protect skin from UV exposure while keeping it moisturized.",
+    "image": "",
+    "problem_tags": "sunscreen,spf50,uv-protection,daily-use,face-care"
+  },
+  {
+    "pname": "Organic Harvest Acne Control Face Wash",
+    "netprice": 131,
+    "sellingprice": 175,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A face wash for oily and acne-prone skin that helps reduce surface impurities and breakout triggers.",
+    "image": "",
+    "problem_tags": "face-wash,anti-acne,oily-skin,pimples,deep-cleanse"
+  },
+  {
+    "pname": "Organic Harvest Skin Lightening Face Wash",
+    "netprice": 262,
+    "sellingprice": 349,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A brightening face wash that helps target dullness, tan, and uneven-looking skin tone.",
+    "image": "",
+    "problem_tags": "face-wash,brightening,dark-spots,tan-removal,uneven-tone"
+  },
+  {
+    "pname": "Organic Harvest SPF 50 Sunscreen",
+    "netprice": 349,
+    "sellingprice": 465,
+    "category": "Face",
+    "severity": "Regular",
+    "description": "A broad-spectrum sunscreen that helps shield skin from daily sun exposure and tanning.",
+    "image": "",
+    "problem_tags": "sunscreen,spf50,uv-protection,tan-prevention,daily-use"
+  },
+  {
+    "pname": "Organic Harvest Vitamin C Face Serum",
+    "netprice": 559,
+    "sellingprice": 745,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A vitamin C serum that helps improve glow, support even tone, and reduce visible dark spots.",
+    "image": "",
+    "problem_tags": "serum,vitamin-c,brightening,dark-spots,glow"
+  },
+  {
+    "pname": "Organic Harvest Brightening Facial Kit",
+    "netprice": 259,
+    "sellingprice": 345,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A multistep facial kit designed to cleanse, exfoliate, and improve glow in a single routine.",
+    "image": "",
+    "problem_tags": "facial-kit,brightening,glow,cleanup,dull-skin"
+  },
+  {
+    "pname": "Ubtan Face Wash",
+    "netprice": 202,
+    "sellingprice": 269,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A turmeric and saffron face wash that helps lift tan, brighten skin, and cleanse daily grime.",
+    "image": "",
+    "problem_tags": "face-wash,ubtan,tan-removal,brightening,glow"
+  },
+  {
+    "pname": "Vitamin C Face Wash",
+    "netprice": 202,
+    "sellingprice": 269,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A brightening face wash that helps refresh dull skin and support a more even complexion.",
+    "image": "",
+    "problem_tags": "face-wash,vitamin-c,brightening,uneven-tone,daily-use"
+  },
+  {
+    "pname": "Tea Tree Face Wash",
+    "netprice": 202,
+    "sellingprice": 269,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A pimple-control cleanser that helps reduce excess oil and keep acne-prone skin feeling clean.",
+    "image": "",
+    "problem_tags": "face-wash,tea-tree,anti-acne,oily-skin,pimples"
+  },
+  {
+    "pname": "Ubtan Face Mask",
+    "netprice": 374,
+    "sellingprice": 499,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A tan-removal face mask that helps brighten skin, improve texture, and support glow.",
+    "image": "",
+    "problem_tags": "face-mask,ubtan,tan-removal,brightening,texture"
+  },
+  {
+    "pname": "Skin Illuminate Vitamin C Serum",
+    "netprice": 449,
+    "sellingprice": 599,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A vitamin C serum that helps reduce hyperpigmentation, support glow, and improve radiance.",
+    "image": "",
+    "problem_tags": "serum,vitamin-c,hyperpigmentation,dark-spots,glow"
+  },
+  {
+    "pname": "Aloe Vera Gel",
+    "netprice": 374,
+    "sellingprice": 499,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A lightweight gel moisturizer that helps soothe, hydrate, and calm irritated or dehydrated skin.",
+    "image": "",
+    "problem_tags": "gel-moisturizer,aloe-vera,hydration,soothing,calming"
+  },
+  {
+    "pname": "Green Tea Face Wash",
+    "netprice": 185,
+    "sellingprice": 247,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A pore-cleansing face wash that helps control oil and support acne-prone skin.",
+    "image": "",
+    "problem_tags": "face-wash,green-tea,oil-control,acne-prone,pores"
+  },
+  {
+    "pname": "Green Tea Alcohol-Free Toner",
+    "netprice": 277,
+    "sellingprice": 369,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "An alcohol-free toner that helps manage sebum, refresh skin, and refine the look of pores.",
+    "image": "",
+    "problem_tags": "toner,green-tea,oil-control,pores,acne-prone"
+  },
+  {
+    "pname": "Green Tea Renewed Clarity Night Gel",
+    "netprice": 345,
+    "sellingprice": 460,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A lightweight overnight gel that helps hydrate without heaviness while supporting clearer-looking skin.",
+    "image": "",
+    "problem_tags": "night-gel,green-tea,acne-prone,oil-control,overnight-repair"
+  },
+  {
+    "pname": "Chamomile & White Tea Glow-Getter Face Mask",
+    "netprice": 368,
+    "sellingprice": 490,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A glow-focused face mask that helps nourish skin, soften dullness, and improve radiance.",
+    "image": "",
+    "problem_tags": "face-mask,glow,brightening,dull-skin,nourishing"
+  },
+  {
+    "pname": "E-Luminence Deep Moisturizing Creme",
+    "netprice": 345,
+    "sellingprice": 460,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A rich moisturizer for dry skin that helps comfort rough patches and lock in lasting hydration.",
+    "image": "",
+    "problem_tags": "moisturizer,dry-skin,deep-hydration,barrier-support,soft-skin"
+  },
+  {
+    "pname": "Sandalwood & Saffron Face Wash",
+    "netprice": 224,
+    "sellingprice": 299,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A gentle brightening cleanser that helps remove dirt and support a fresher, more radiant finish.",
+    "image": "",
+    "problem_tags": "face-wash,sandalwood,saffron,brightening,daily-use"
+  },
+  {
+    "pname": "Neem & Tulsi Face Wash",
+    "netprice": 187,
+    "sellingprice": 249,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A herbal cleanser that helps purify pores, reduce excess oil, and support acne-prone skin.",
+    "image": "",
+    "problem_tags": "face-wash,neem,tulsi,anti-acne,oil-control"
+  },
+  {
+    "pname": "Rose Water Toner",
+    "netprice": 187,
+    "sellingprice": 249,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A rosewater toner that helps soothe skin, refresh the face, and lightly tighten the look of pores.",
+    "image": "",
+    "problem_tags": "toner,rose-water,refreshing,soothing,pores"
+  },
+  {
+    "pname": "Herbal Anti-Acne Face Pack",
+    "netprice": 149,
+    "sellingprice": 199,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A clarifying anti-acne pack that helps calm breakouts and absorb excess oil from congested skin.",
+    "image": "",
+    "problem_tags": "face-pack,anti-acne,pimples,oil-control,blemishes"
+  },
+  {
+    "pname": "Ayurvedic Face Scrub",
+    "netprice": 319,
+    "sellingprice": 425,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A scrub that helps exfoliate dead skin, smooth rough texture, and support a cleaner-looking glow.",
+    "image": "",
+    "problem_tags": "face-scrub,exfoliation,dead-skin,texture,glow"
+  },
+  {
+    "pname": "Gotukola Indian Ginseng Skin Radiance Cream",
+    "netprice": 446,
+    "sellingprice": 595,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A radiance-focused face cream that helps hydrate skin and support glow, firmness, and smoother texture.",
+    "image": "",
+    "problem_tags": "face-cream,gotukola,indian-ginseng,anti-ageing,glow"
+  },
+  {
+    "pname": "Silksplash Neem-Orange Rehydrant Face Wash",
+    "netprice": 134,
+    "sellingprice": 179,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A gentle face wash that cleanses thoroughly while helping skin stay soft and non-dry.",
+    "image": "",
+    "problem_tags": "face-wash,neem,orange,gentle-cleanse,hydration"
+  },
+  {
+    "pname": "Apricot Sparkle Face Scrub",
+    "netprice": 116,
+    "sellingprice": 154,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A creamy scrub that helps unclog pores, remove dead skin, and improve dull, tired-looking texture.",
+    "image": "",
+    "problem_tags": "face-scrub,apricot,exfoliation,pores,dull-skin"
+  },
+  {
+    "pname": "Kimsukadi Tail Glow Boosting Facial Oil",
+    "netprice": 254,
+    "sellingprice": 339,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A glow-boosting facial oil that helps improve dullness, pigmentation, and uneven skin tone.",
+    "image": "",
+    "problem_tags": "face-oil,glow,pigmentation,dark-spots,uneven-tone"
+  },
+  {
+    "pname": "Elixir Facial Serum",
+    "netprice": 2096,
+    "sellingprice": 2795,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "A lightweight facial serum that helps hydrate deeply, support repair, and improve skin radiance.",
+    "image": "",
+    "problem_tags": "serum,hydration,repair,glow,anti-ageing"
+  },
+  {
+    "pname": "Turmeric & Sandalwood Face Wash",
+    "netprice": 1088,
+    "sellingprice": 1450,
+    "category": "Face",
+    "severity": "Improver",
+    "description": "A nourishing face wash that helps cleanse gently while supporting freshness, softness, and glow.",
+    "image": "",
+    "problem_tags": "face-wash,turmeric,sandalwood,brightening,gentle-cleanse"
+  },
+  {
+    "pname": "Kakadu Plum & Pomegranate Face Oil",
+    "netprice": 656,
+    "sellingprice": 875,
+    "category": "Face",
+    "severity": "High Severity",
+    "description": "An antioxidant-rich face oil that helps moisturize skin, improve brightness, and support a more even-looking tone.",
+    "image": "",
+    "problem_tags": "face-oil,vitamin-c,antioxidants,brightening,pigmentation"
+  }
+]

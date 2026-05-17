@@ -1,0 +1,502 @@
+[
+  {
+    "pname": "Meswak Toothpaste",
+    "netprice": 69,
+    "sellingprice": 105,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Herbal toothpaste for daily oral cleansing, breath freshness, and general gum support.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,daily-use,oral-care,bad-breath,miswak"
+  },
+  {
+    "pname": "Dabur Red Paste",
+    "netprice": 79,
+    "sellingprice": 120,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Ayurvedic toothpaste formulated for stronger gums and everyday oral care.",
+    "image": "",
+    "problem_tags": "toothpaste,ayurvedic-toothpaste,gum-care,daily-use,oral-care"
+  },
+  {
+    "pname": "Dabur Babool Toothpaste",
+    "netprice": 66,
+    "sellingprice": 99,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Herbal toothpaste for routine cleaning and maintaining healthy gums.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,gum-care,daily-use,oral-care"
+  },
+  {
+    "pname": "Dabur Herbal Basil Toothpaste",
+    "netprice": 69,
+    "sellingprice": 105,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Basil-based herbal toothpaste for daily cleaning and fresh breath.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,daily-use,bad-breath,oral-care,basil"
+  },
+  {
+    "pname": "Dabur Herbal Neem Toothpaste",
+    "netprice": 69,
+    "sellingprice": 105,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Neem herbal toothpaste for clean teeth, gum care, and everyday freshness.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,neem,gum-care,daily-use,oral-care"
+  },
+  {
+    "pname": "Vicco Vajradanti Paste",
+    "netprice": 89,
+    "sellingprice": 135,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Classic Ayurvedic toothpaste for gum health, strong teeth, and daily brushing.",
+    "image": "",
+    "problem_tags": "toothpaste,ayurvedic-toothpaste,gum-care,strong-teeth,daily-use"
+  },
+  {
+    "pname": "Vicco Vajradanti Powder",
+    "netprice": 79,
+    "sellingprice": 120,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Ayurvedic tooth powder for gum care, teeth cleaning, and traditional oral hygiene.",
+    "image": "",
+    "problem_tags": "tooth-powder,ayurvedic-tooth-powder,gum-care,strong-teeth,oral-care"
+  },
+  {
+    "pname": "Vicco Vajradanti Saunf Toothpaste",
+    "netprice": 95,
+    "sellingprice": 145,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Saunf-based herbal toothpaste for daily cleansing and improved mouth freshness.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,daily-use,bad-breath,oral-care,saunf"
+  },
+  {
+    "pname": "Himalaya Complete Care Toothpaste",
+    "netprice": 85,
+    "sellingprice": 129,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Complete care herbal toothpaste for daily teeth cleaning and gum maintenance.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,daily-use,oral-care,gum-care"
+  },
+  {
+    "pname": "Himalaya Sparkling White Toothpaste",
+    "netprice": 95,
+    "sellingprice": 145,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Herbal toothpaste aimed at cleaner teeth and brighter-looking smile.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,whitening,daily-use,oral-care"
+  },
+  {
+    "pname": "Himalaya Gum Expert Toothpaste",
+    "netprice": 105,
+    "sellingprice": 159,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Targeted toothpaste for gum support, sensitivity around gums, and regular cleaning.",
+    "image": "",
+    "problem_tags": "toothpaste,gum-care,herbal-toothpaste,oral-care,daily-use"
+  },
+  {
+    "pname": "Himalaya Hiora-K Mouthwash",
+    "netprice": 129,
+    "sellingprice": 199,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Alcohol-free style mouthwash support for freshness and post-brush oral hygiene.",
+    "image": "",
+    "problem_tags": "mouthwash,oral-rinse,bad-breath,oral-care,freshness"
+  },
+  {
+    "pname": "Himalaya Hiora-GA Gum Astringent",
+    "netprice": 119,
+    "sellingprice": 185,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Targeted gum-care product for irritated gums and focused oral care support.",
+    "image": "",
+    "problem_tags": "gum-care,gum-treatment,oral-care,sensitive-gums"
+  },
+  {
+    "pname": "Patanjali Dant Kanti Natural",
+    "netprice": 79,
+    "sellingprice": 120,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Ayurvedic toothpaste for daily teeth cleaning and general gum support.",
+    "image": "",
+    "problem_tags": "toothpaste,ayurvedic-toothpaste,daily-use,gum-care,oral-care"
+  },
+  {
+    "pname": "Patanjali Dant Kanti Medicated",
+    "netprice": 89,
+    "sellingprice": 135,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Medicated herbal paste for stronger gum care and daily oral hygiene support.",
+    "image": "",
+    "problem_tags": "toothpaste,medicated-herbal-paste,gum-care,oral-care,strong-teeth"
+  },
+  {
+    "pname": "Patanjali Dant Kanti Junior",
+    "netprice": 65,
+    "sellingprice": 95,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Kids toothpaste for gentle cleaning and child-friendly daily oral care.",
+    "image": "",
+    "problem_tags": "kids-toothpaste,toothpaste,daily-use,oral-care,children"
+  },
+  {
+    "pname": "Patanjali Dant Kanti Red",
+    "netprice": 89,
+    "sellingprice": 135,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Ayurvedic toothpaste for gum care, strong teeth, and daily brushing.",
+    "image": "",
+    "problem_tags": "toothpaste,ayurvedic-toothpaste,gum-care,strong-teeth,oral-care"
+  },
+  {
+    "pname": "Patanjali Divya Dant Manjan",
+    "netprice": 69,
+    "sellingprice": 105,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Traditional tooth powder for gum support and deep oral cleaning.",
+    "image": "",
+    "problem_tags": "tooth-powder,ayurvedic-tooth-powder,gum-care,strong-teeth,oral-care"
+  },
+  {
+    "pname": "Bentodent Cardamom Toothpaste",
+    "netprice": 145,
+    "sellingprice": 219,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Natural toothpaste with cardamom notes for daily cleaning and breath freshness.",
+    "image": "",
+    "problem_tags": "toothpaste,natural-toothpaste,bad-breath,freshness,daily-use,oral-care"
+  },
+  {
+    "pname": "Bentodent Mint Toothpaste",
+    "netprice": 145,
+    "sellingprice": 219,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Mint toothpaste for routine oral hygiene and fresh breath support.",
+    "image": "",
+    "problem_tags": "toothpaste,natural-toothpaste,bad-breath,freshness,daily-use,oral-care"
+  },
+  {
+    "pname": "Bentodent Activated Charcoal Toothpaste",
+    "netprice": 165,
+    "sellingprice": 249,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Charcoal toothpaste for stain-focused cleaning and a cleaner-looking smile.",
+    "image": "",
+    "problem_tags": "toothpaste,charcoal-toothpaste,whitening,stains,oral-care"
+  },
+  {
+    "pname": "Bentodent Tooth Powder",
+    "netprice": 135,
+    "sellingprice": 205,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Natural tooth powder for regular cleaning, gum care, and traditional brushing.",
+    "image": "",
+    "problem_tags": "tooth-powder,natural-tooth-powder,gum-care,oral-care,strong-teeth"
+  },
+  {
+    "pname": "Perfora Probiotic Toothpaste",
+    "netprice": 195,
+    "sellingprice": 299,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Modern oral-care toothpaste designed for daily cleaning and oral microbiome support.",
+    "image": "",
+    "problem_tags": "toothpaste,probiotic-toothpaste,daily-use,oral-care,freshness"
+  },
+  {
+    "pname": "Perfora Teeth Whitening Toothpaste",
+    "netprice": 215,
+    "sellingprice": 329,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Whitening toothpaste for surface stain care and brighter-looking teeth.",
+    "image": "",
+    "problem_tags": "toothpaste,whitening,stains,oral-care,daily-use"
+  },
+  {
+    "pname": "Perfora Herbal Mint Toothpaste",
+    "netprice": 195,
+    "sellingprice": 299,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Herbal mint toothpaste for everyday brushing and lasting mouth freshness.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,mint,freshness,daily-use,oral-care"
+  },
+  {
+    "pname": "Perfora Alcohol-Free Mouthwash",
+    "netprice": 225,
+    "sellingprice": 349,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Alcohol-free mouthwash for fresh breath and easy daily oral rinsing.",
+    "image": "",
+    "problem_tags": "mouthwash,alcohol-free,bad-breath,oral-rinse,freshness,oral-care"
+  },
+  {
+    "pname": "Perfora Copper Tongue Cleaner",
+    "netprice": 185,
+    "sellingprice": 299,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Copper tongue cleaner for tongue coating removal and better mouth freshness.",
+    "image": "",
+    "problem_tags": "tongue-cleaner,bad-breath,tongue-care,oral-care,freshness"
+  },
+  {
+    "pname": "Organic India Neem Toothpaste",
+    "netprice": 145,
+    "sellingprice": 225,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Neem-based herbal toothpaste for daily cleaning and gum-friendly oral care.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,neem,gum-care,daily-use,oral-care"
+  },
+  {
+    "pname": "Organic India Tulsi Toothpaste",
+    "netprice": 145,
+    "sellingprice": 225,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Tulsi herbal toothpaste for routine brushing and fresh-feeling oral care.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,tulsi,daily-use,freshness,oral-care"
+  },
+  {
+    "pname": "Organic India Gum Care Toothpaste",
+    "netprice": 155,
+    "sellingprice": 239,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Focused gum care toothpaste for stronger daily gum-support routines.",
+    "image": "",
+    "problem_tags": "toothpaste,gum-care,herbal-toothpaste,strong-teeth,oral-care"
+  },
+  {
+    "pname": "Organic India Mouthwash",
+    "netprice": 185,
+    "sellingprice": 289,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Natural mouthwash for oral freshness, rinse-based hygiene, and bad-breath care.",
+    "image": "",
+    "problem_tags": "mouthwash,bad-breath,oral-rinse,freshness,oral-care"
+  },
+  {
+    "pname": "Splat India Biocalcium Toothpaste",
+    "netprice": 225,
+    "sellingprice": 349,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Biocalcium toothpaste for strong-teeth support and regular daily brushing.",
+    "image": "",
+    "problem_tags": "toothpaste,strong-teeth,remineralizing,oral-care,daily-use"
+  },
+  {
+    "pname": "Splat India Herbal Toothpaste",
+    "netprice": 215,
+    "sellingprice": 329,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Herbal toothpaste for everyday teeth cleaning and fresh mouth care.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,daily-use,oral-care,freshness"
+  },
+  {
+    "pname": "Ayush Anti-Cavity Clove Oil Toothpaste",
+    "netprice": 79,
+    "sellingprice": 119,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Clove oil Ayurvedic toothpaste for anti-cavity focused brushing and oral care.",
+    "image": "",
+    "problem_tags": "toothpaste,anti-cavity,clove-oil,ayurvedic-toothpaste,oral-care"
+  },
+  {
+    "pname": "Ayush Whitening Rock Salt Toothpaste",
+    "netprice": 79,
+    "sellingprice": 119,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Rock salt toothpaste for surface clean feel and brighter-looking teeth.",
+    "image": "",
+    "problem_tags": "toothpaste,whitening,rock-salt,ayurvedic-toothpaste,oral-care"
+  },
+  {
+    "pname": "Ayush Freshness Cardamom Toothpaste",
+    "netprice": 79,
+    "sellingprice": 119,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Cardamom toothpaste made for everyday brushing and breath freshness.",
+    "image": "",
+    "problem_tags": "toothpaste,freshness,cardamom,ayurvedic-toothpaste,bad-breath,oral-care"
+  },
+  {
+    "pname": "Colgate Vedshakti Toothpaste",
+    "netprice": 95,
+    "sellingprice": 149,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Ayurvedic-style toothpaste for daily brushing and complete oral care.",
+    "image": "",
+    "problem_tags": "toothpaste,ayurvedic-toothpaste,daily-use,oral-care,gum-care"
+  },
+  {
+    "pname": "Colgate Swarna Vedshakti Toothpaste",
+    "netprice": 115,
+    "sellingprice": 179,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Upgraded Ayurvedic toothpaste for daily care and cleaner-feeling teeth.",
+    "image": "",
+    "problem_tags": "toothpaste,ayurvedic-toothpaste,daily-use,oral-care,strong-teeth"
+  },
+  {
+    "pname": "Colgate Vedshakti Mouth Protect Spray",
+    "netprice": 135,
+    "sellingprice": 219,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Portable oral spray for quick freshness and on-the-go mouth care.",
+    "image": "",
+    "problem_tags": "oral-spray,bad-breath,freshness,oral-care,travel-friendly"
+  },
+  {
+    "pname": "Sri Sri Tattva Sudanta Toothpaste",
+    "netprice": 85,
+    "sellingprice": 129,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Ayurvedic toothpaste for simple daily brushing and general oral care.",
+    "image": "",
+    "problem_tags": "toothpaste,ayurvedic-toothpaste,daily-use,oral-care,gum-care"
+  },
+  {
+    "pname": "Sri Sri Tattva Sudanta Tooth Powder",
+    "netprice": 75,
+    "sellingprice": 115,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Ayurvedic tooth powder for gum support and traditional oral cleaning.",
+    "image": "",
+    "problem_tags": "tooth-powder,ayurvedic-tooth-powder,gum-care,oral-care,strong-teeth"
+  },
+  {
+    "pname": "Sri Sri Tattva Sudanta Gel",
+    "netprice": 85,
+    "sellingprice": 129,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Tooth gel for routine brushing and clean mouth feel.",
+    "image": "",
+    "problem_tags": "tooth-gel,daily-use,oral-care,freshness,tooth-cleaning"
+  },
+  {
+    "pname": "Khadi Natural Herbal Toothpaste",
+    "netprice": 95,
+    "sellingprice": 149,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Herbal toothpaste for daily cleaning and gentle oral care support.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,daily-use,oral-care,gum-care"
+  },
+  {
+    "pname": "Khadi Natural Neem Toothpaste",
+    "netprice": 99,
+    "sellingprice": 155,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Neem toothpaste for regular brushing and gum-friendly oral care.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,neem,gum-care,oral-care,daily-use"
+  },
+  {
+    "pname": "Khadi Natural Charcoal Toothpaste",
+    "netprice": 109,
+    "sellingprice": 169,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Charcoal toothpaste for stain-focused cleaning and refreshed teeth feel.",
+    "image": "",
+    "problem_tags": "toothpaste,charcoal-toothpaste,whitening,stains,oral-care"
+  },
+  {
+    "pname": "Herbodent Premium Herbal Toothpaste",
+    "netprice": 105,
+    "sellingprice": 159,
+    "category": "Oral",
+    "severity": "Regular",
+    "description": "Premium herbal toothpaste for daily brushing and broad oral care support.",
+    "image": "",
+    "problem_tags": "toothpaste,herbal-toothpaste,daily-use,oral-care,gum-care"
+  },
+  {
+    "pname": "Herbodent Gum Care Toothpaste",
+    "netprice": 115,
+    "sellingprice": 179,
+    "category": "Oral",
+    "severity": "High Severity",
+    "description": "Herbal gum-care toothpaste for focused gum support and daily oral hygiene.",
+    "image": "",
+    "problem_tags": "toothpaste,gum-care,herbal-toothpaste,oral-care,strong-teeth"
+  },
+  {
+    "pname": "Dr. Vaidya’s Ayurvedic Tooth Powder",
+    "netprice": 145,
+    "sellingprice": 229,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Ayurvedic tooth powder for traditional brushing, teeth cleaning, and gum care.",
+    "image": "",
+    "problem_tags": "tooth-powder,ayurvedic-tooth-powder,gum-care,oral-care,strong-teeth"
+  },
+  {
+    "pname": "The Tribe Concepts Tooth Powder",
+    "netprice": 195,
+    "sellingprice": 315,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Natural tooth powder for gentle cleaning and herbal oral care routines.",
+    "image": "",
+    "problem_tags": "tooth-powder,natural-tooth-powder,herbal-oral-care,gum-care,oral-care"
+  },
+  {
+    "pname": "Herbal Strategi Natural Mouthwash",
+    "netprice": 165,
+    "sellingprice": 259,
+    "category": "Oral",
+    "severity": "Improver",
+    "description": "Natural mouthwash for breath freshness and regular post-brush rinsing.",
+    "image": "",
+    "problem_tags": "mouthwash,bad-breath,oral-rinse,freshness,oral-care"
+  }
+]
